@@ -38,3 +38,5 @@ Tất cả các bài tập đều tuân thủ quy trình:
 ## Hướng dẫn chạy
 Cài đặt thư viện:scikit-fuzzy
    pip install scikit-fuzzy
+### Link colab:
+https://colab.research.google.com/drive/1QRTFVQSc5zhCbJrM6Yeel1CSmUJEeBoA?usp=sharing
